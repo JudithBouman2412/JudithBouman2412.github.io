@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /JudithBouman2412.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /JudithBouman2412.github.io/talks/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /JudithBouman2412.github.io/teaching/
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /JudithBouman2412.github.io/portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
   - title: "CV"
-    url: /cv/
+    url: /JudithBouman2412.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: /JudithBouman2412.github.io/markdown/
