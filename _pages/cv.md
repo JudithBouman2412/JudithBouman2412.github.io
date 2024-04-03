@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* July 2022 - now: Post-doc in epidemiology with Dr. Christian Althaus and Dr. Julien Riou
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* August 2017 - January 2018: Data analyst with Foodora
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
 Education
 ======
 * March 2018 - May 2022: PhD in Theoretical Biology with Prof. Roland Regoes <br>
@@ -23,19 +35,6 @@ Education
 * September 2011 - July 2014: BSc in Medical Natural Sciences, cum laude <br>
   Vrije Universiteit Amsterdam, Amsterdam, Netherlands <br>
   Bachelor thesis: "Centrality of Cancer-genes, Influence of Hub-genes and Properties of Influence Rich Genes in Human Pathways" under the supervision of Dr. Wessel van Wieringen at the VU medical Centre.
-
-
-Work experience
-======
-* July 2022 - now: Post-doc in epidemiology with Dr. Christian Althaus and Dr. Julien Riou
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* August 2017 - January 2018: Data analyst with Foodora
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
  
 Skills
 ======
@@ -66,7 +65,8 @@ Teaching
   
 Awards
 ======
+* 2023: Silver Medal of ETH Zurich for Outstanding doctoral thesis
 
-Service and leadership
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* 
