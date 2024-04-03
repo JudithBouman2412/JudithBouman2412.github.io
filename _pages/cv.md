@@ -32,7 +32,7 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* August 2017 - January 2018: Data analyst
+* August 2017 - January 2018: Data analyst with Foodora
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
