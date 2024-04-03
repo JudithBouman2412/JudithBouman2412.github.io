@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "headshot_2.png"
   name             : "Judith Bouman"
-  pronouns         : "she/her"
+  pronouns         : #"she/her"
   bio              : "Mathematical modeller of <br> infectious diseases"
   location         : "Bern"
   employer         : "University of Bern"
