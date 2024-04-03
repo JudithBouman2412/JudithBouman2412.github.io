@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Theoretical Biology with Prof. Roland Regoes (March 2018 - May 2022) <br>
+  Institute of Integrative Biology, ETH Zurich, Zurich, Switzerland <br>
+  Title: "Mathematical modelling of viral infections with sequence, clinical, and serological data".
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
