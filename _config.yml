@@ -21,7 +21,7 @@ repository               : "JudithBouman2412/JudithBouman2412.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Judith Bouman"
   pronouns         : "she/her"
   bio              : "Mathematical modeller of infectious diseases"
