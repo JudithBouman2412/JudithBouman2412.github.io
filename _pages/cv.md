@@ -13,7 +13,7 @@ Education
 ======
 * March 2018 - May 2022: PhD in Theoretical Biology with Prof. Roland Regoes <br>
   Institute of Integrative Biology, ETH Zurich, Zurich, Switzerland <br>
-  Title: "Mathematical modelling of viral infections with sequence, clinical, and serological data".
+  Thesis title: "Mathematical modelling of viral infections with sequence, clinical, and serological data".
 * September 2015 - July 2017: Msc in mathematics (biomedical track), cum laude <br>
   Vrije Universiteit Amsterdam, Amsterdam, Netherlands <br>
   Master thesis: "Modelling the Appearance and Spread of Drug-Resistant Influenza" under the supervision of Prof. Daniel Coombs at the University of British Columbia in Vancouver.
