@@ -24,7 +24,7 @@ author:
   avatar           : "headshot.jpg"
   name             : "Judith Bouman"
   pronouns         : "she/her"
-  bio              : "Mathematical modeller of infectious diseases"
+  bio              : "Mathematical modeller of <br> infectious diseases"
   location         : "Bern"
   employer         : "University of Bern"
   uri              : "https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html#pane1239374" # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.uk/citations?user=gFjiwwIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3781-0675"
+  orcid            : "https://orcid.org/0000-0003-3781-0675"
   pubmed           : # URL
   researchgate     : # URL
 
