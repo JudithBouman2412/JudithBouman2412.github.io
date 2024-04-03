@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023_correcting
 excerpt: 'Empirically-supported approach for sero-reversion correction in cumulative incidence estimation when sequential serosurveys are conducted in the context of a newly emerging infectious disease.'
 date: 2023-11-29
-venue: 'Journal 1'
+venue: 'American journal of Epidemiology'
 paperurl: 'https://doi.org/10.1093/aje/kwad226'
 citation: 'Kadelka, S, Bouman, JA, Ashcroft, P, Regoes, RR (2023). &quot;Correcting for Antibody Waning in Cumulative Incidence Estimation from Sequential Serosurveys&quot; <i>American journal of epidemiology</i>'
 ---
