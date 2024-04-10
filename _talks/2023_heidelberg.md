@@ -1,13 +1,13 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Estimating time-dependent transmission rates of SARS-CoV-2 using B-splines, Gaussian processes, and Brownian motion in a Baysian SIR-type model in Stan"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Conference proceedings talk"
+permalink: /talks/2023_heidelberg
+venue: "30th International Dynamics & Evolution of Human Viruses"
+date: 2023-04-21
+location: "Heidelberg, Germany"
 ---
 
-[More information here](http://exampleurl.com)
+[Conference webpage](https://dynamicsevolution.org/event/1/)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+In this talk, I presented the work of [this paper](). 
