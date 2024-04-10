@@ -1,11 +1,11 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Per-pathogen virulence of HIV-1 subtypes A, C and D"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+permalink: /talks/2022_lisbon
+venue: "Seventh Annual Meeting of the International Society for Evolution, Medicine, and Public Health"
+date: 2022-07-08
+location: "Lisbon, Portugal
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+At this venue I presented the work described in [this paper](https://judithbouman.ch/publication/2023_virulence).

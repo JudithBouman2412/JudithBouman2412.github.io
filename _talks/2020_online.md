@@ -1,13 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Estimating the cumulative incidence of SARS-CoV-2 with imperfect serological tests: Exploiting cutoff-free approaches"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/2020_online
+venue: "Online"
+date: 2020-10-19
+location: "Online"
 ---
 
-[More information here](http://example2.com)
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+In this online talk, I presented [this work](https://judithbouman.ch/publication/2021_cum_inc). 
