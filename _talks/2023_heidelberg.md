@@ -8,6 +8,4 @@ date: 2023-04-21
 location: "Heidelberg, Germany"
 ---
 
-[Conference webpage](https://dynamicsevolution.org/event/1/)
-
-In this talk, I presented the work of [this paper](https://judithbouman.ch/publication/2024_bayesian). 
+In this talk, I presented the work of [this paper](https://judithbouman.ch/publication/2024_bayesian). More information can be found on the [Conference webpage](https://dynamicsevolution.org/event/1/).
