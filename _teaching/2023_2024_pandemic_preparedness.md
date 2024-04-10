@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "MCID Colloquium: what is pandemic preparedness?"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture in course"
+permalink: /teaching/2023_2024_pandemic_preparedness
+venue: "University of Bern, Multidisciplinary Center for Infectious Diseases"
+date: 2023-09-13
+location: "Bern, Switzerland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching a practical session as an introduction on mathematical modelling and epidemic surveilance for infectious diseases. This session is part of the [MCID Colloquium: what is pandemic preparedness?](https://www.ksl.unibe.ch/KSL/kurzansicht?0&stammNr=485489&semester=HS2024&lfdNr=0).
