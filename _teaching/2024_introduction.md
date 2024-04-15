@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture in course"
 permalink: /teaching/2024_introduction
 venue: "University of Bern, Institute of Solcial and Preventive Medicine (ISPM)"
-date: 11-06-11
+date: 2024-06-11
 location: "Bern, Switzerland"
 ---
 
