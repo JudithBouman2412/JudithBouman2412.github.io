@@ -55,6 +55,3 @@ Awards
 ======
 * 2023: Silver Medal of ETH Zurich for Outstanding doctoral thesis
 
-Volunteering
-======
-* 
