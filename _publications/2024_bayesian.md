@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024_bayesian
 excerpt: 'A Bayesian workflow for including time-varying transmission in stratified SIR-like infectious disease transmission models. The workflow includes the comparison of three different methods for time-varying transmission: B-splines, Gaussian processes, and Brownian motion. Moreover, the models are applied to both simulated and real-world SARS-CoV-2 data.'
 date: 2023-11-29
-venue: 'MedRchiv'
+venue: 'PLOS Computational Biology'
 paperurl: 'https://doi.org/10.1101/2023.10.09.23296742'
 citation: 'Bouman, JA, Hauser, A, Grimm, SL, Wohlfender, M, Bhatt, S, Semenova, E, Gelman, A, Althaus, CL, Riou, J (2023). &quot;Bayesian workflow for time-varying transmission in stratified
 compartmental infectious disease transmission models&quot; <i>PLOS Computational Biology</i>'
